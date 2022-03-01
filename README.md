@@ -5,6 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonzheld&count_bg=%23DAEFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=high+five%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonzheld&count_bg=%23DAEFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=high+five%21&edge_flat=false)](https://github.com/monzheld)
 
 ---------------------------------------
 ### 💻 Tech Stack 💻
@@ -32,6 +33,7 @@
   
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
