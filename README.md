@@ -22,7 +22,7 @@
 
 
 ![PostgresSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=Metabase&logoColor=white)
   
 
