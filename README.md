@@ -38,9 +38,6 @@ Interested in NLP 🗣️
 **WEB FRAMEWORK**
 > Flask, Heroku
 
-**IDE**
-> VS Code, Jupyter Notebook
-
 
 <br>
   
