@@ -27,7 +27,7 @@ Interested in NLP 🗣️
 > Pandas, NumPy, Matplotlib, Seaborn
 
 **ML FRAMEWORK**
-> TensorFlow, PyTorch, Keras, Scikit-learn
+> PyTorch, TensorFlow, Keras, Scikit-learn
 
 **DB**
 > MySQL, PostgreSQL
