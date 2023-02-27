@@ -30,7 +30,7 @@ Interested in NLP 🗣️
 > TensorFlow, PyTorch, Keras, Scikit-learn
 
 **DB**
-> MySQL, PostgreSQL, MongoDB
+> MySQL, PostgreSQL
 
 **DASHBOARD**
 > Metabase
